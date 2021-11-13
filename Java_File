@@ -1,0 +1,11 @@
+
+public class Test {
+
+	public static void main(String[] args) {
+		String s="Sangam Thaku1r";
+		String finall=s.substring(12, 13);
+		System.out.println(finall);
+
+	}
+
+}
